@@ -1,7 +1,7 @@
 # React CRUD
 A *React* application to Create Read Update Delete items in a list!
 
-# Build With
+# Built With
 * HTML/CSS
 * JavaScript
 * React
